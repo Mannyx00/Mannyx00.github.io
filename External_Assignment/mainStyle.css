@@ -99,7 +99,7 @@ section {
   
   
   header {
-    background: url('images/owner.jpg');
+    background: url('images/bg.png');
     height: 150px;
     background-size: cover;
     display: flex;
